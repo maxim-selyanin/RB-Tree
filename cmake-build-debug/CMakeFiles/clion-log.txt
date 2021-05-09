@@ -1,0 +1,4 @@
+"D:\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\study\programming\3_semester\aads\task3\fine_rb
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/study/programming/3_semester/aads/task3/fine_rb/cmake-build-debug
