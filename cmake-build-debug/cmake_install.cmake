@@ -1,4 +1,4 @@
-# Install script for directory: D:/study/programming/3_semester/aads/task3/fine_rb
+# Install script for directory: D:/NotableProjects/fine_rb
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/study/programming/3_semester/aads/task3/fine_rb/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/NotableProjects/fine_rb/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
