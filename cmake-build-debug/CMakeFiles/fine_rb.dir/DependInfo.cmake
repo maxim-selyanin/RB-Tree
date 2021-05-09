@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/study/programming/3_semester/aads/task3/fine_rb/main.cpp" "D:/study/programming/3_semester/aads/task3/fine_rb/cmake-build-debug/CMakeFiles/fine_rb.dir/main.cpp.obj"
+  "D:/NotableProjects/fine_rb/main.cpp" "D:/NotableProjects/fine_rb/cmake-build-debug/CMakeFiles/fine_rb.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
